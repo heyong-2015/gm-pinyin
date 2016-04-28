@@ -1,0 +1,22 @@
+{
+  "name": "gm-pinyin",
+  "version": "1.0.0",
+  "description": "拼音库",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyong-2015/gm-pinyin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyong-2015/gm-pinyin/issues"
+  },
+  "homepage": "https://github.com/heyong-2015/gm-pinyin#readme",
+  "dependencies": {
+    "object-assign": "^4.0.1"
+  }
+}
